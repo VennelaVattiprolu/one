@@ -36,8 +36,8 @@
 
     <repositories>
              <repository>
-                    <id>flm-feed</id>
-                    <url>https://pkgs.dev.azure.com/afsanabegummd00/MyFirstProject/_packaging/flm-feed/maven/v1</url>
+                    <id>new-feed</id>
+                    <url>https://pkgs.dev.azure.com/vennelavattiprolu2807/myproject/_packaging/new-feed/maven/v1</url>
                     <releases>
                       <enabled>true</enabled>
                       </releases>
@@ -49,8 +49,8 @@
 
     <distributionManagement>
             <repository>
-  <id>flm-feed</id>
-  <url>https://pkgs.dev.azure.com/afsanabegummd00/MyFirstProject/_packaging/flm-feed/maven/v1</url>
+  <id>new-feed</id>
+  <url>https://pkgs.dev.azure.com/vennelavattiprolu2807/myproject/_packaging/new-feed/maven/v1</url>
   <releases>
     <enabled>true</enabled>
   </releases>
