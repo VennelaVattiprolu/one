@@ -36,8 +36,8 @@
 
     <repositories>
              <repository>
-                    <id>new-feed</id>
-                    <url>https://pkgs.dev.azure.com/vennelavattiprolu2807/myproject/_packaging/new-feed/maven/v1</url>
+                    <id>myfeed</id>
+                    <url>https://pkgs.dev.azure.com/vennelavattiprolu2807/92b7c029-eb23-4fd6-9f28-e22a8379a27b/_packaging/myfeed/maven/v1</url>
                     <releases>
                       <enabled>true</enabled>
                       </releases>
@@ -49,8 +49,8 @@
 
     <distributionManagement>
             <repository>
-  <id>new-feed</id>
-  <url>https://pkgs.dev.azure.com/vennelavattiprolu2807/myproject/_packaging/new-feed/maven/v1</url>
+  <id>myfeed</id>
+  <url>https://pkgs.dev.azure.com/vennelavattiprolu2807/92b7c029-eb23-4fd6-9f28-e22a8379a27b/_packaging/myfeed/maven/v1</url>
   <releases>
     <enabled>true</enabled>
   </releases>
